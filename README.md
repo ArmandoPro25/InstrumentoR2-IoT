@@ -24,3 +24,6 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
 |Arduino IDE|2.3.4|
 
 ## Diagrama de los ejercicios.
+Potenciometro:
+![image](https://github.com/user-attachments/assets/db8c7c0f-ea25-4220-9e5d-9a3b2923a4f8)
+
