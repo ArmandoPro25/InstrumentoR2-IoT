@@ -16,10 +16,11 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
 |OLED|<img src="https://s.alicdn.com/@sc04/kf/HTB1MYZambsrBKNjSZFpq6AXhFXa1.jpg_300x300.jpg" width="100"/>|1|120.00|
 |Buzzer|<img src="https://th.bing.com/th/id/OIP.ux9IEUTGIihWYCG_bb4LEAHaHa?w=196&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100"/>|1|80.00|
 
-## Software a utilizar
+## Software utilizado.
 |Software|Versión|
 |--|--|
 |Thonny|4.1.6|
 |Node-Red|4.0.8|
 |Arduino IDE|2.3.4|
 
+## Diagrama de los ejercicios.
