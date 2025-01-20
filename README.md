@@ -65,3 +65,10 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
  Video OLED: https://drive.google.com/file/d/1SJgfRBOn8Me08X6gq05P6QO_FT3n1Mj6/view?usp=sharing
  
 <img src="https://github.com/user-attachments/assets/bd3dbae1-1eb7-4bea-bf9c-9cf0483448c8" width="500">
+
+### Servo Motor
+
+ Video: https://drive.google.com/file/d/16fqmnOCtEmyKWuS-ksrk4JaUfVvfVUU-/view?usp=sharing
+ 
+<img src="https://github.com/user-attachments/assets/8ff0024d-236f-4801-a88d-757315031193" width="500">
+
