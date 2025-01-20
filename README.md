@@ -57,9 +57,11 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
 ### OLED y Matriz
 
  Video Saludo Matriz con OLED: https://drive.google.com/file/d/1D82cH_wLtjFqF-vPjEupgssGA708Gh6t/view?usp=sharing
+ 
 <img src="https://github.com/user-attachments/assets/c70625b5-0b71-45eb-96e7-503ebe20f0d1" width="500">
 
 ### OLED
 
  Video OLED: https://drive.google.com/file/d/1SJgfRBOn8Me08X6gq05P6QO_FT3n1Mj6/view?usp=sharing
+ 
 <img src="https://github.com/user-attachments/assets/bd3dbae1-1eb7-4bea-bf9c-9cf0483448c8" width="500">
