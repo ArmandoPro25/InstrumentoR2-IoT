@@ -25,6 +25,8 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
 
 ## Diagrama de los ejercicios.
 ### Potenciometro:
+
+ Video: https://drive.google.com/file/d/183ZHaA9D2F0P6VYCohKJwEwuiUI78SYP/view?usp=sharing
 <img src="https://github.com/user-attachments/assets/db8c7c0f-ea25-4220-9e5d-9a3b2923a4f8" width="500"/>
 
 ### Sensor Ultrasonico:
