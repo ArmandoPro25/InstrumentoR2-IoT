@@ -22,3 +22,4 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
 |Thonny|4.1.6|
 |Node-Red|4.0.8|
 |Arduino IDE|2.3.4|
+
