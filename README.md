@@ -44,3 +44,10 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
 
 <img src="https://github.com/user-attachments/assets/2e56d434-3a32-4b7f-b9f0-1a4085f0ece1" width="500">
 
+### Matriz
+
+ Video: https://drive.google.com/file/d/1o4wSvunLvd68r1OrCUHoIEB86SjdUkKl/view?usp=sharing
+
+ Video Barra LED volumen: https://drive.google.com/file/d/1apANq3ESqJ2FUsCIEqdougEd9-OwAKw_/view?usp=sharing
+
+<img src="https://github.com/user-attachments/assets/a0c777bc-987b-4bc5-8127-3140778b286e" width="500">
