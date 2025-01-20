@@ -62,10 +62,6 @@
  
 <img src="https://github.com/user-attachments/assets/bd3dbae1-1eb7-4bea-bf9c-9cf0483448c8" width="500">
 
-## Drive de los videos de los ejercicios hechos en clase
-
-https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sharing 
-
 ### Servo Motor
 
  Video: https://drive.google.com/file/d/16fqmnOCtEmyKWuS-ksrk4JaUfVvfVUU-/view?usp=sharing
