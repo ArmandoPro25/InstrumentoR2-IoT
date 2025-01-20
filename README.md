@@ -25,5 +25,5 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
 
 ## Diagrama de los ejercicios.
 Potenciometro:
-![image](https://github.com/user-attachments/assets/db8c7c0f-ea25-4220-9e5d-9a3b2923a4f8)
+<img src="https://github.com/user-attachments/assets/db8c7c0f-ea25-4220-9e5d-9a3b2923a4f8" width="100"/>
 
