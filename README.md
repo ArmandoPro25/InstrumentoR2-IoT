@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1ijb10L3jWsocc00tca0doFAyq7HE_E5y?usp=sha
 |HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
 |Servo|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCS2LOM7XetEE4N0_B1KxJhYDKp9Ve8MIXiA&s" width="100"/>|2|80.00|
 |LEDs|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrORWYeYGwKMV-8mKFk_LDyt8DU1EhKOpXQ&s" width="100"/>|5|20.00|
-|Matriz|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrORWYeYGwKMV-8mKFk_LDyt8DU1EhKOpXQ&s" width="100"/>|5|20.00|
+|Matriz|<img src="https://th.bing.com/th/id/OIP.l44bTKqPzjL11nbec2G4jwHaHa?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100"/>|5|20.00|
 |OLED|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrORWYeYGwKMV-8mKFk_LDyt8DU1EhKOpXQ&s" width="100"/>|5|20.00|
 |Buzzer|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrORWYeYGwKMV-8mKFk_LDyt8DU1EhKOpXQ&s" width="100"/>|5|20.00|
 |LEDs|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrORWYeYGwKMV-8mKFk_LDyt8DU1EhKOpXQ&s" width="100"/>|5|20.00|
