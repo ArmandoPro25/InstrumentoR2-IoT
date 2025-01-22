@@ -71,7 +71,3 @@
 ## Drive de los videos de los ejercicios hechos en clase
 
 https://drive.google.com/drive/folders/106yql2wey2qm0ozp05kmdCyJYlrJylWQ?usp=sharing
-
-## Drive con los códigos de los ejercicios
-
-https://drive.google.com/drive/folders/14pIhXbMxuFZM4OO0q2HKyMAhKH7k-B_y?usp=sharing
